@@ -1,6 +1,6 @@
 # Client Side Routing w/ React Router v. 5
-
-Topics:
+<!-- Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+Topics: -->
 
 * React Router
 * Using Link and NavLink to navigate to specific routes
