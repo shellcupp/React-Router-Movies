@@ -1,7 +1,7 @@
 import React from 'react';
 
-function MovieCard({ movie }) {
-  const { title, director, metascore, stars } = movie;
+function MovieCard({movie}) {
+  const {title, director, metascore, stars} = movie;
   return (
     <div className="movie-card">
       <h2>{title}</h2>
