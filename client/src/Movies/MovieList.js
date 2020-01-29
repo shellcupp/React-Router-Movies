@@ -17,7 +17,6 @@ const MovieList = props => {
           console.error('Server Error', error);
         });
     }
-    
     getMovies();
   }, []);
   
