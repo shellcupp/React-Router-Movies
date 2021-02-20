@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 function MovieCard({ movie }) {
   const { title, director, metascore, stars } = movie;
